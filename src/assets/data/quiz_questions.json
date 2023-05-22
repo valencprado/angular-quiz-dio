@@ -1,0 +1,68 @@
+{
+    "title":"Qual comida brasileira você é?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual o seu rolê favorito?",
+        "options":[
+          {"id": 1, "name":"Ficar em casa", "alias":"A"},
+          {"id": 2, "name":"Barzinho perto de casa", "alias":"B"},
+          {"id": 3, "name":"Festona", "alias":"C"},
+          {"id": 4, "name":"Fazer compras", "alias":"D"},
+          {"id": 5, "name":"Sair com poucos amigos", "alias":"E"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Qual o seu dia favorito?",
+        "options":[
+          {"id": 1, "name":"Sábado", "alias":"D"},
+          {"id": 2, "name":"Sexta", "alias":"C"},
+          {"id": 3, "name":"Domingo", "alias":"E"},
+          {"id": 4, "name":"Quarta", "alias":"B"},
+          {"id": 4, "name":"Quinta", "alias":"A"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Se você pudesse repetir uma refeição mais de uma vez, qual seria?",
+        "options":[
+          {"id": 1, "name":"Café da manhã", "alias":"D"},
+          {"id": 2, "name":"Almoço", "alias":"B"},
+          {"id": 3, "name":"Cafezinho da tarde", "alias":"E"},
+          {"id": 4, "name":"Jantar", "alias":"A"},
+          {"id": 5, "name":"Sou mais de beber", "alias":"C"}
+
+        ]
+      },
+      {
+        "id":4,
+        "question": "Escolha uma cor:",
+        "options":[
+          {"id": 1, "name":"Amarelo", "alias":"E"},
+          {"id": 2, "name":"Branco", "alias":"A"},
+          {"id": 3, "name":"Rosa", "alias":"C"},
+          {"id": 4, "name":"Preto", "alias":"B"},
+          {"id": 5, "name":"Azul", "alias":"D"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual é o lugar ideal para ficar de férias?",
+        "options":[
+          {"id": 1, "name":"Cidade grande", "alias":"C"},
+          {"id": 2, "name":"Interior", "alias":"D"},
+          {"id": 3, "name":"Qualquer lugar muito frio", "alias":"A"},
+          {"id": 4, "name":"Praia", "alias":"E"},
+          {"id": 5, "name":"Um lugar que lembra minha infância", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Parabéns! Você é a canjica!",
+      "B": "Parabéns! Você é a feijoada!",
+      "C": "Parabéns! Você é a caipirinha!",
+      "D": "Parabéns! Você é o pão de queijo!",
+      "E": "Parabéns! Você é o pastel!"
+    }
+  }

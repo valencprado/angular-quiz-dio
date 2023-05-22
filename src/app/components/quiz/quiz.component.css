@@ -51,8 +51,9 @@
     width: 5rem;
     display: inline-block;
     font-size: 17px;
-    padding: 16px 31px;
+    padding: 2rem 5rem;
     transition: .5s all ;
+    margin-right: 5px;
 }
 
 .btn-option:hover {

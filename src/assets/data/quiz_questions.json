@@ -58,11 +58,11 @@
         ]
       }
     ],
-    "results":{
-      "A": "Parabéns! Você é a canjica!",
-      "B": "Parabéns! Você é a feijoada!",
-      "C": "Parabéns! Você é a caipirinha!",
-      "D": "Parabéns! Você é o pão de queijo!",
-      "E": "Parabéns! Você é o pastel!"
+    "results":{ 
+      "B": "Você é a feijoada!",
+      "C": "Você é a caipirinha!",
+      "D": "Você é o pão de queijo!",
+      "A": "Você é a canjica!",
+      "E": "Você é o pastel!"
     }
   }
